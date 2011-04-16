@@ -11,8 +11,8 @@ public class PdfCreatorTest {
 
 	@Test
 	public void testPdfOutput(){
-		String xmlPath = "output/xml/aaa.xml";
-		String xslPath = "output/xsl/aaa.xsl";
+		String xmlPath = "output/xml/fop-sample.xml";
+		String xslPath = "output/xsl/fop-sample.xsl";
 		
 		try {
 			PdfCreator.outputPdf("sample.pdf", xmlPath, xslPath);
