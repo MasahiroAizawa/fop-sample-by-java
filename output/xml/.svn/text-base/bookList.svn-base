@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<本棚一覧>
+  <書籍>
+    <idBook>1</idBook>
+    <isbn>978-4-8222-8423-7</isbn>
+    <title>Scala プログラミング入門</title>
+    <summary>Scala言語の入門書。内容は全部読み切っていないからわからない。この本を一冊写経する予定。</summary>
+    <price>3200</price>
+  </書籍>
+  <書籍>
+    <idBook>2</idBook>
+    <isbn>978-4-478-01588-9</isbn>
+    <title>評価経済社会</title>
+    <summary>岡田斗司夫の三冊同時刊行の一冊。農業革命、産業革命に続く情報革命で社会のパラダイムが変わることを扱う。毎回この人の本には非常に驚かされる。面白い。</summary>
+    <price>1500</price>
+  </書籍>
+</本棚一覧>
